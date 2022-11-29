@@ -1,0 +1,6 @@
+- git remote add = To add the GitHub repository to your LocalRepo before you can 
+  push the code to it.  
+  git remote add drama <url> = Where (drama) is the alias name and <url> is the 
+  github repository we want to push the codes to.  
+- git remote -v = Displays the added repositories (URLs) where we can push 
+  the changes (codes)
